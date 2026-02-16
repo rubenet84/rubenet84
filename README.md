@@ -1,7 +1,7 @@
 <!-- README Landing Page Portafolio Personal -->
 
 <div align="center">
-  <img src="https://assets.grok.com/users/18b85b80-ec03-4cc1-bcce-f14a2f2e8e3c/generated/0a006ad1-44de-495c-833d-87fe304bf27f/image.jpg" width="250" style="border-radius:80px" />
+  <img src="https://assets.grok.com/users/18b85b80-ec03-4cc1-bcce-f14a2f2e8e3c/generated/0a006ad1-44de-495c-833d-87fe304bf27f/image.jpg" width="250" style="border-radius:80px"/>
   <h1>Hola, mi nombre es Ruben Rebollo 👋</h1>
   <p style="font-size:18px">
     🧑‍💻 Full Stack Developer • 🚀 Open Source •  💻 Freelance full-stack dev<br>📲 iOS & Android engineer ♥️👾 Friki </br>
@@ -43,19 +43,19 @@ Actualmente actualizándome y haciendo cursos de Bash, Git, Github, Python, Refl
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=github" />
-	<img src="https://skillicons.dev/icons?i=bash" />
-	<img src="https://skillicons.dev/icons?i=discord" />
-	<img src="https://skillicons.dev/icons?i=instagram" />
-	<img src="https://skillicons.dev/icons?i=linkedin" />
-	<img src="https://skillicons.dev/icons?i=gmail" />
-	<img src="https://skillicons.dev/icons?i=dotnet" />
-	<img src="https://skillicons.dev/icons?i=ai" />
-	<img src="https://skillicons.dev/icons?i=ps" />
-	<img src="https://skillicons.dev/icons?i=php" />
-	<img src="https://skillicons.dev/icons?i=java" />
-	<img src="https://skillicons.dev/icons?i=powershell" />
-	<img src="https://skillicons.dev/icons?i=vscode" />
-	<img src="https://img.icons8.com/?size=65&id=J6KcaRLsTgpZ&format=png&color=000000"/>
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=discord" />
+  <img src="https://skillicons.dev/icons?i=instagram" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=ai" />
+  <img src="https://skillicons.dev/icons?i=ps" />
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=powershell" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://img.icons8.com/?size=65&id=J6KcaRLsTgpZ&format=png&color=000000"/>
 	
 </div>
 <br></br>
@@ -73,7 +73,7 @@ Actualmente actualizándome y haciendo cursos de Bash, Git, Github, Python, Refl
 <div style="border:1px solid #ddd;border-radius:16px;padding:20px;margin-bottom:15px">
 <b>🔥 Primera pagina web</b>
 <p>Pagina web estatica creada con python y reflex y javascript</p>
-<a href="https://github.com/tuusuario/proyecto">Ver proyecto</a>
+<a href="https://adeviento-web.vercel.app/">Ver proyecto</a>
 </div>
 
 ---
@@ -84,7 +84,7 @@ Actualmente actualizándome y haciendo cursos de Bash, Git, Github, Python, Refl
   <img src="https://images.unsplash.com/photo-1619410283995-43d9134e7656?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZ3JhbWFjaW9ufGVufDB8fDB8fHww" width="260" />
   <img src="https://plus.unsplash.com/premium_photo-1683140655656-20448abc55da?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="260" />
   <img src="https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?q=80&w=3132&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="260" />
- <img src="https://images.unsplash.com/photo-1592424002053-21f369ad7fdb?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="260" />
+  <img src="https://images.unsplash.com/photo-1592424002053-21f369ad7fdb?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="260" />
 </div>
 ---
 
@@ -99,7 +99,7 @@ Actualmente actualizándome y haciendo cursos de Bash, Git, Github, Python, Refl
   
   &nbsp;🏢 **FORMACIÓN ACADÉMICA**
 	- 🎓 Grado en Ingeniería Informática Universidad Politécnica de Valencia 2011 - 2013
-	- 🎓Técnico Superior en Desarrollo de Aplicaciones Informáticas (DAI) <p> &nbsp; &nbsp; &nbsp;I.E.S Abastos, Valencia. 2005 - 2008</p>
+	- 🎓 Técnico Superior en Desarrollo de Aplicaciones Informáticas (DAI) I.E.S Abastos, Valencia. 2005 - 2008
 	- 🎓 Bachillerato en Ciencias de la Salud - I.E.S El Clot, Valencia 2002 - 2004<p></p><br></br>
 	
 	🏢 **FORMACIÓN COMPLEMENTARIA**
