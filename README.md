@@ -1,7 +1,7 @@
 <!-- README Landing Page Portafolio Personal -->
 
 <div align="center">
-  <img src="https://assets.grok.com/users/18b85b80-ec03-4cc1-bcce-f14a2f2e8e3c/generated/0a006ad1-44de-495c-833d-87fe304bf27f/image.jpg" width="250" style="border-radius:80px"/>
+  <img src="https://assets.grok.com/users/18b85b80-ec03-4cc1-bcce-f14a2f2e8e3c/generated/833e323a-a0a8-4fa1-ba3a-4a51bd845d83/image.jpg"/>
   <h1>Hola, mi nombre es Ruben Rebollo 👋</h1>
   <p style="font-size:18px">
     🧑‍💻 Full Stack Developer • 🚀 Open Source •  💻 Freelance full-stack dev<br>📲 iOS & Android engineer ♥️👾 Friki </br>
